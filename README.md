@@ -1,6 +1,6 @@
 - CU Boulder 2026
-- Twitter: @Mitch_Kubina
 - LinkedIn: https://www.linkedin.com/in/mitchell-kubina-7557b7203/
+- Learner of things
 
 <!---
 MitchKubina/MitchKubina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
